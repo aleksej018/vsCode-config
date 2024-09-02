@@ -1,0 +1,20 @@
+{
+  "workbench.colorTheme": "Andromeda",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "cSpell.userWords": ["finaly"],
+  "editor.formatOnSave": true,
+  "prisma.showPrismaDataPlatformNotification": false,
+  "workbench.sideBar.location": "right",
+  "editor.cursorBlinking": "expand",
+  // "editor.lineNumbers": "off",
+
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/path...",
+    "file:///C:/Users/path..."
+  ],
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false
+}
